@@ -1,25 +1,35 @@
 *{
     padding: 0;
-    marding: 0;
-
+    margin: 0;
 }
 
-.wrapper{    
-    background-color:  #FA5430;    
-    width: 100%;       
+.wrapper{
+    background: #F84A2F;     
+    width: 100%;
 }
 
-.nav-left, li{    
-    color: white;
-    border: 1px solid black;
-    width:100px;
+.navigation{
+    background-color:  F94F30;
+    width: 1000px;
+    margin: 0 auto;
+    height: 150px;
+}
+
+li{
+    list-style: none;    
+}
+
+.nav-left li{    
+    padding: 20px;
     text-align: center;
+    color: white;    
+    float: left;       
 }
 
-.nav-right, li{    
-    color: white;
-    border: 1px solid black;
-    width:100px;
-    text-align: center;   
+.nav-right ul li{       
+    padding: 20px;
+    text-align: center;
+    color: white;    
+    float: right;         
 }
 

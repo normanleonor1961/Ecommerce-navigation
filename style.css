@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    marding: 0;
+
+}
+
+.wrapper{    
+    background-color:  #FA5430;    
+    width: 100%;       
+}
+
+.nav-left, li{    
+    color: white;
+    border: 1px solid black;
+    width:100px;
+    text-align: center;
+}
+
+.nav-right, li{    
+    color: white;
+    border: 1px solid black;
+    width:100px;
+    text-align: center;   
+}
+
